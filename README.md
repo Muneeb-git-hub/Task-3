@@ -1,2 +1,2 @@
 # Task-3
-Credit Risk Prediction 
+Customer Churn Prediction (Bank Customers) 
